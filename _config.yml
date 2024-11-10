@@ -1,0 +1,7 @@
+title: "EXSK_02_T01"
+description: "static base template t01"
+baseurl: "" # leave blank for GitHub Pages
+url: "https://muzzammilb.github.io" # your GitHub Pages URL
+remote_theme: pages-themes/modernist@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
